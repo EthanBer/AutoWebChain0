@@ -1,0 +1,8 @@
+{
+    "config": "/Users/ethanbernstein/.config/walrus/client_config.yaml",
+    "command": {
+      "store": {
+        "file": "/Users/ethanbernstein/Documents/log.txt"
+      }
+    }
+  }
