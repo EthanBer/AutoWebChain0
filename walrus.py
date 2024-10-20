@@ -1,4 +1,10 @@
 import os
 
+def walrusPush(file):
+    os.system("walrus-testnet-latest-macos-arm64 json \"$(cat /{file})\" >> output.json")
+
+
 if __name__ == "__main__":
-    os.system("walrus-testnet-latest-macos-arm64 json \"$(cat /Users/ethanbernstein/Documents/AutoWebChain0/walrus.json)\" >> output.json")
+    #you will write log file
+    #then you will send path to walruspush
+    os.system("walrus-testnet-latest-macos-arm64 json \"$(cat /{file})\" >> output.json")

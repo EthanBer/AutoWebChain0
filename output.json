@@ -1,0 +1,12 @@
+{
+  "alreadyCertified": {
+    "blobId": "rtkpBrLnycXrZTKZ68mzHFHqQQFxn8WGGRjgUteUWmM",
+    "eventOrObject": {
+      "Event": {
+        "txDigest": "2hBFJcoRKgABsB28WbBW8JSJF8mZYPDfBx639LrtKFYu",
+        "eventSeq": "0"
+      }
+    },
+    "endEpoch": 6
+  }
+}
